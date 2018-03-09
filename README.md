@@ -1,4 +1,4 @@
-# macOS-High-Sierra-RecoveryHD-Partition
+# macOS High Sierra Recovery HD Partition
 
 ## Welcome Recovery HD Partition
 Tools for creating a macOS High Sierra Recovery HD Partition on any Volumes.
