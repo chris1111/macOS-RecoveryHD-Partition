@@ -20,7 +20,7 @@ You will have to select your Install macOS High Sierra.app for the creation of t
 
 #### Credit: Package chris1111
 
-### Release Download [➤ Recovery HD Partition.zip]()
+### Release Download [➤ Recovery HD Partition.zip](https://github.com/chris1111/macOS-High-Sierra-RecoveryHD-Partition/releases)
 
 Follow every steps in the Video
 
