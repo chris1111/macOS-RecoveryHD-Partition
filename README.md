@@ -7,7 +7,7 @@ Tools for creating a macOS Mojave or macOS High Sierra Recovery HD Partition on 
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/113.png)
 
-![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/211.png)
+![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/212.png)
 
 ### Usage: Create USB Recovery HD
 The USB key you choose will be formatted as a single partition, then you will have to select your Install macOS Mojave.app for the creation of the Recovery HD,
