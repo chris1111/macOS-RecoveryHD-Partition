@@ -20,7 +20,7 @@ You will have to select your Install macOS Mojave.app for the creation of the Re
 
 #### Credit: Package chris1111
 
-### Release Download [➤ Recovery HD Partition.zip](https://github.com/chris1111/macOS-High-Sierra-RecoveryHD-Partition/releases)
+### Release Download V2 [➤ Recovery HD Partition.zip](https://github.com/chris1111/macOS-RecoveryHD-Partition/releases/tag/V2)
 
 Follow every steps in the Video
 
