@@ -22,7 +22,7 @@ You will have to select your Install macOS Mojave.app for the creation of the Re
 
 ### Release Download V2 [➤ Recovery HD Partition.zip](https://github.com/chris1111/macOS-RecoveryHD-Partition/releases/tag/V2)
 
-### ⬇︎ Follow every steps in the Video ⬇︎
+        ### ⬇︎ Follow every steps in the Video ⬇︎
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video13.png)](https://youtu.be/sci8axhJ7XA)
 
